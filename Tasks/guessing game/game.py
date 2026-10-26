@@ -24,4 +24,4 @@ while True:
         print("Correct! 🎯")
         break
     else:
-        print("Wrong guess. Try again! ❌")
+        print("Wrong guess :( Try again! ❌")
